@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-# Halo semua! 
-
-Perkenalkan nama saya **Adisti Anjani**.\
+Perkenalkan nama saya **Adisti Anjani**
 
 <p align="left">
-<a href="https://github.com/gilangadhan">
+<a href="https://github.com/adistianjani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adistianjani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adistianjani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
