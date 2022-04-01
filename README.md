@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Adisti Anjani**
+I'm **Adisti Anjani Putri**, nice to meet you!
 
 <p align="left">
 <a href="https://github.com/adistianjani">
